@@ -19,7 +19,5 @@ $('.scroll').parallaxScroll({
       yOffset: 0
   });
   
-Except 'image' all other parameters are optional. To set image path through HTML use following markup-
-
-<div class="scroll" data-image='images/knowUs.jpg'> Your page content </div>
+Except 'image' all other parameters are optional. To set image path through HTML use data attribute to pass image path - data-image = "images/img0.jpg".
 
