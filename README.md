@@ -8,7 +8,7 @@ jQuery
 
 How to use
 ==========
-Include 'parallaxScroll.js' in tour webpage.
+Include 'parallaxScroll.jQuery.js' in tour webpage.
 To apply parallax scrolling in your element (say '.scroll') write following code in script.
 
 $('.scroll').parallaxScroll({
